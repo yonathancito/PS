@@ -3,7 +3,6 @@ mensaje ->
 "+"
 control + enter
 actualizar "abajo"*/
-
 /*./holamundo.exe*/
 #include <stdio.h>
 int main(){
@@ -14,9 +13,6 @@ int main(){
 	scanf("%d",&numero1);
 
 	printf("El valor del numero1 es",numero1);
-
-
-
 	return 0;
 }
 
